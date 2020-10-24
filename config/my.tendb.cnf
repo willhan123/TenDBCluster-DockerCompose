@@ -13,6 +13,7 @@ innodb_log_buffer_size=256M
 innodb_log_file_size=128M
 innodb_log_files_in_group=4
 datadir=/data1/mysqldata/3306/data
+sql_mode=''
 innodb_data_home_dir=/data1/mysqldata/3306/innodb/data
 innodb_log_group_home_dir=/data1/mysqldata/3306/innodb/log
 slow_query_log_file=/data1/mysqldata/3306/slow-query.log
